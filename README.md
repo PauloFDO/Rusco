@@ -1,4 +1,4 @@
-I made this game using the art of Fernando Pulido Hermoso as part of his final degree project, he wanted to display his art in a interactive way and asked me if I would help him by using it to create a game, which I agreed with and that is how Rusco was born, a plarform game where the main character is a magic mouse (it is part of a fable of the south of Spain)
+I made this game using the art of Fernando Pulido Hermoso as part of his final university project, he wanted to display his art in a interactive way and asked me if I would help him by using it to create a game, which I agreed with and that is how Rusco was born, a plarform game where the main character is a magic mouse (it is part of a fable of the south of Spain)
 
 ![alt text](https://1fov3q.db.files.1drv.com/y4mGazzo3juKa0yRaktfF4pL6cw0aGtEnX4AtgoWjKYgdRJ1BRhoNckmxWzqX6yoqO1OfBExXoDmJCVrtc7sDn9_ocBWk0VZQu9-oWalD4FExtwfG7aPb9JM-EXQcI7-akp9NFHbUgC-oZd3sekjIvYG4C4kWMG9kj_TkM3HNwEkTp0LYfrZwpfKWRdRgH-JpS3ZHc8l1vtKnpoOuG_Rg-kSA?width=660&height=471&cropmode=none)
 
