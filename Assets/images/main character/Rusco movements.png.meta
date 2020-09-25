@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: 9c5425ea7c008ca47895d04a433c6ce5
+timeCreated: 1491726952
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rusco stand 1
+    21300002: Rusco stand 2
+    21300004: Rusco stand 3
+    21300006: Rusco stand 4
+    21300008: Rusco stand 5
+    21300010: Rusco stand 6
+    21300012: Rusco run 1
+    21300014: Rusco run 2
+    21300016: Rusco run 3
+    21300018: Rusco run 4
+    21300020: Rusco run 5
+    21300022: Rusco run 6
+    21300024: Rusco run 7
+    21300026: Rusco run 8
+    21300028: Rusco jump 1
+    21300030: Rusco jump 2
+    21300032: Rusco jump 3
+    21300034: Rusco jump 4
+    21300036: Rusco jump 5
+    21300038: Rusco jump 6
+    21300040: Rusco hit 1
+    21300042: Rusco hit 2
+    21300044: Rusco hit 3
+    21300046: Rusco hit 4
+    21300048: Rusco attack 1
+    21300050: Rusco attack 2
+    21300052: Rusco attack 3
+    21300054: Rusco attack 4
+    21300056: Rusco movements_53
+    21300058: Rusco movements_61
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rusco stand 1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 594
+        width: 54
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco stand 2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 594
+        width: 54
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco stand 3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 594
+        width: 53
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco stand 4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 594
+        width: 55
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco stand 5
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 594
+        width: 53
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco stand 6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 594
+        width: 54
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco run 1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 486
+        width: 54
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco run 2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 486
+        width: 53
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco run 3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 486
+        width: 55
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco run 4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 486
+        width: 53
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco run 5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 486
+        width: 55
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco run 6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 486
+        width: 54
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco run 7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 486
+        width: 54
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco run 8
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 486
+        width: 53
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco jump 1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 375
+        width: 54
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco jump 2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 375
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco jump 3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 376
+        width: 50
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco jump 4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 376
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco jump 5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 376
+        width: 51
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco jump 6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 375
+        width: 48
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco hit 1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 264
+        width: 52
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco hit 2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 264
+        width: 48
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco hit 3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 264
+        width: 48
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco hit 4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 264
+        width: 52
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco attack 1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 151
+        width: 54
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco attack 2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 151
+        width: 53
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco attack 3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 151
+        width: 55
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rusco attack 4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 151
+        width: 54
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
